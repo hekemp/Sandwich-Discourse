@@ -1,0 +1,1914 @@
+
+S31
+Cheeseburger
+Cheeseburger
+Cheeseburger
+Cheeseburger
+YES
+YES
+S16
+Ground Beef
+Bell Pepper
+Lasagna
+Pancake
+YES
+NO
+S24
+Mashed Potatoes
+Flour Tortilla
+Olives
+Shredded Cheese
+YES
+YES
+S99
+Cherry Pie
+Red Snapper
+Refried Beans
+Almond Butter
+NO
+NO
+S32
+Cherry Pie
+Lettuce
+Snap Peas
+Salt
+YES
+NO
+S40
+Sliced Cheese
+Coconut Oil
+Rice Krispies Bar
+Corn on the Cob
+NO
+NO
+S17
+Burrito
+Burrito
+Burrito
+Burrito
+YES
+YES
+S25
+Sliced Bread
+Bagel
+Tomato
+Kale
+YES
+NO
+S33
+Mushroom
+Bagel
+Muscles
+Sliced Beets
+YES
+NO
+S18
+Cheese Omelette
+Cheese Omelette
+Cheese Omelette
+Cheese Omelette
+YES
+YES
+S41
+Oreo Cookies
+Lettuce
+Bleached Flour
+Coffee Cake
+NO
+NO
+S26
+Sliced Deli Meat
+Pancake
+Almonds
+Cupcake
+YES
+NO
+S34
+Cake
+Kale
+Butter
+Oreo Cookies
+NO
+YES
+S19
+Cheetos
+Cheetos
+Eggplant
+Lettuce
+NO
+NO
+S42
+Tomato
+Sliced Bread
+Baked Potato
+Spaghetti Noodles
+YES
+NO
+S27
+Mashed Potatoes
+Bell Pepper
+Eggplant
+Vegemite
+NO
+NO
+S50
+Muscles
+Coconut Oil
+Zucchini
+Raw Egg
+NO
+NO
+S35
+Brussels Sprout
+Black Beans
+Olive Oil
+Paprika
+NO
+NO
+S100
+Clams
+Bell Pepper
+French Fries
+Cookies
+NO
+NO
+S43
+Crackers
+Almond Milk
+Cheeseburger
+Tahini
+NO
+NO
+S28
+Cake
+French Toast
+Pulled Pork
+Melted Cheese
+YES
+NO
+S51
+Sliced Cheese
+Sliced Bread
+Chili Powder
+Artichoke Heart
+YES
+YES
+S36
+Mashed Potatoes
+Pancake
+Goat Cheese
+Chicken Nuggets
+YES
+YES
+S44
+Bowtie Pasta
+Almond Butter
+Onions
+Refried Beans
+NO
+NO
+S29
+Bagel
+Bagel
+Bagel
+Bagel
+YES
+YES
+S52
+Bagel
+Bagel
+Bagel
+Bagel
+YES
+YES
+S37
+Shredded Chicken
+Lettuce
+Oreo Cookies
+Taco
+NO
+NO
+S60
+Pinto Beans
+Coconut Oil
+Corn on the Cob
+Roasted Potatoes
+NO
+YES
+S101
+Peanut Butter
+Chocolate Bar
+Kale
+Soy Sauce
+YES
+NO
+S45
+Sliced Deli Meat
+Ice Cream
+Ham and Cheese Omelette
+Melted Cheese
+NO
+NO
+S53
+Ham and Cheese Omelette
+Ham and Cheese Omelette
+Ham and Cheese Omelette
+Ham and Cheese Omelette
+YES
+YES
+S38
+Potato Chips
+Peanut Butter
+Grilled Sausage
+Baguette
+YES
+YES
+S61
+Bagel
+Mushroom
+Garlic Powder
+Taco
+YES
+YES
+S46
+Salt
+Bell Pepper
+Banana
+S'Mores
+NO
+YES
+S54
+Kale
+Chicken Wing
+Salmon
+Canned Tuna
+NO
+NO
+S102
+Mustard
+Flour Tortilla
+Clams
+Chocolate Chip Cookies
+YES
+NO
+S39
+Sliced Deli Meat
+Roasted Potatoes
+Egg Whites
+Duck Breast
+NO
+YES
+S62
+Kale
+Brussels Sprout
+Oysters
+Mashed Potatoes
+NO
+NO
+S47
+Soy Sauce
+Black Beans
+Almond Milk
+Clams
+NO
+YES
+S70
+Snap Peas
+Waffle
+Croissant
+Corn on the Cob
+NO
+YES
+S55
+Egg Whites
+Bagel
+Sliced Cheese
+Chili Powder
+YES
+YES
+S63
+Chicken Salad
+Sliced Cheese
+Eggplant
+Clams
+YES
+YES
+S48
+Olives
+Pepper
+Red Snapper
+Refried Beans
+NO
+YES
+S71
+Pinto Beans
+Corn Tortilla
+Raw Egg
+Carrots
+NO
+NO
+S56
+Bell Pepper
+Lettuce
+Anchovies
+Pinto Beans
+YES
+NO
+S103
+Anchovies
+Pie Crust
+Mushroom
+Sliced Cheese
+YES
+NO
+S64
+Kale
+Sliced Bread
+Balsamic Vinegar
+Pumpkin Pie
+YES
+NO
+S49
+Sriracha
+Canned Tuna
+Banana
+Raw Onion
+NO
+NO
+S72
+Kidney Beans
+Peaches
+Pumpkin
+Cashews
+NO
+NO
+S80
+French Toast
+English Muffin
+Zucchini
+Poached Egg
+YES
+YES
+S57
+Pie Crust
+Toast
+Sliced Deli Meat
+Pancake
+YES
+YES
+S65
+Sliced Cheese
+English Muffin
+Jalepeno Peppers
+Almonds
+YES
+YES
+S73
+Spinach
+Sliced Bread
+Oreo Cookies
+Chocolate Bar
+YES
+YES
+S81
+Banana
+English Muffin
+Honey Mustard
+Cream Cheese
+YES
+NO
+S58
+Doritos
+Bagel
+Crepe with Butter and Jam
+Almond Milk
+YES
+NO
+S104
+Raw Egg
+Salt
+Peanut Butter
+Summer Sausage
+NO
+NO
+S66
+Apple Pie
+Ground Beef
+Pie Crust
+Crepe with Butter and Jam
+NO
+NO
+S74
+Tahini
+Dates
+Baked Potato
+Almond Butter
+NO
+NO
+S82
+Black Beans
+Ravioli
+Cookies
+Goat Cheese
+NO
+YES
+S59
+Pie Crust
+Pie Crust
+Pie Crust
+Pie Crust
+YES
+YES
+S67
+Feta Cheese
+Chicken Breast
+Crackers
+Fried Potatoes
+NO
+YES
+S90
+Shredded Chicken
+Cream Cheese
+Pinto Beans
+Zucchini
+NO
+NO
+S75
+Cheeseburger
+Cheeseburger
+Cheeseburger
+Cheeseburger
+YES
+YES
+S105
+Chicken Wings
+Bacon Wrapped Dates
+Shredded Chicken
+French Toast
+YES
+YES
+S83
+Peanut Butter
+Flour Tortilla
+Mayonaise
+Corn Tortilla
+NO
+NO
+S68
+Pinto Beans
+Chocolate Bar
+Almonds
+Grilled Sausage
+NO
+NO
+S91
+Coconut Oil
+Feta Cheese
+Chicken Salad
+S'Mores
+NO
+NO
+S76
+Spinach
+Artichoke Heart
+Cayenne
+Corn Meal
+NO
+NO
+S84
+Refried Beans
+Red Snapper
+Oreo Cookies
+Muscles
+NO
+NO
+S69
+Shredded Lettuce
+Green Beans
+Cabbage
+Anchovies
+NO
+YES
+S92
+Sliced Deli Meat
+Tomato
+Olives
+Orange
+YES
+YES
+S77
+Banana
+Flour Tortilla
+Lettuce
+Soy Sauce
+YES
+NO
+S10
+Ribs
+Pepper
+Bagel
+Orange
+YES
+YES
+S85
+Snap Peas
+Corn Tortilla
+Ravioli
+Roast Beef
+NO
+YES
+S1
+Mustard
+Lettuce
+Roast Beef
+Onion
+YES
+YES
+S93
+Foie Gras
+Biscuits and Gravy
+Chocolate Chip Cookies
+Strawberry Jam
+YES
+NO
+S78
+Mushroom
+Honey
+Summer Sausage
+Marshmellows
+NO
+YES
+S2
+Aioli
+Lettuce
+Crackers
+Corn Meal
+YES
+NO
+S11
+Reese's Peanut Butter Cups
+Pinto Beans
+Mustard
+Tahini
+NO
+NO
+S86
+Tahini
+Corn Tortilla
+Potato Chips
+Cake
+NO
+NO
+S3
+Salt
+Sliced Cheese
+Soy Sauce
+Pinto Beans
+NO
+NO
+S94
+Maple Syrup
+Waffle
+Chicken Salad
+Refried Beans
+YES
+NO
+S79
+Eggplant
+Baguette
+Shredded Pork
+Ravioli
+YES
+YES
+S4
+Sliced Beets
+Peaches
+Pie Crust
+Doritos
+NO
+NO
+S12
+Snap Peas
+Roasted Potatoes
+Sliced Beets
+Cookies
+NO
+NO
+S87
+Hot Pocket
+Caviar
+Kidney Beans
+Almond Milk
+NO
+NO
+S20
+Chicken Wing
+Cabbage
+Canned Tuna
+Snap Peas
+NO
+NO
+S5
+Raw Egg
+Lettuce
+Ham
+Biscuits and Gravy
+NO
+NO
+S95
+Coffee Cake
+S'Mores
+Bagel
+Sriracha
+NO
+NO
+S6
+Pepper
+Sliced Bread
+Strawberry Jam
+Cauliflower
+YES
+NO
+S13
+Egg Whites
+Relish
+Cupcake
+Sliced Cheese
+NO
+NO
+S88
+Ribs
+Canned Chicken
+Crackers
+Mushroom
+NO
+YES
+S21
+Pumpkin Pie
+Corn Tortilla
+Tuna Salad
+Onions
+YES
+NO
+S96
+Pumpkin
+Bagel
+Hard Boiled Egg
+Banana
+YES
+NO
+S7
+Sliced Deli Meat
+Dates
+Oreo Cookies
+Orange
+YES
+NO
+S14
+Ketchup
+Pancake
+Pinto Beans
+Corn Chips
+YES
+NO
+S8
+Kale
+Lettuce
+Cooked Onion
+Aioli
+YES
+YES
+S89
+Pinto Beans
+Peaches
+Smoked Salmon
+Oatmeal
+NO
+NO
+S22
+Strawberry Jam
+Strawberry Jam
+Cream Cheese
+Chocolate Chip Cookies
+YES
+YES
+S97
+Red Snapper
+Refried Beans
+Chocolate Chip Cookies
+Brussels Sprout
+NO
+NO
+S9
+Cream Cheese
+Poached Egg
+Artichoke Heart
+Burrito
+NO
+NO
+S30
+Ravioli
+Ravioli
+Ravioli
+Ravioli
+YES
+YES
+S15
+Tomato
+Chicken Wing
+Green Beans
+Crustless Quiche
+NO
+NO
+S23
+Oysters
+Bagel
+Cheeseburger
+Marinara Sauce
+YES
+NO
+S98
+Oreo Cookies
+Ravioli
+Ribs
+Caviar
+NO
+NO
+S22
+Bagel
+Strawberry Jam
+Cream Cheese
+Chocolate Chip Cookies
+YES
+YES
+S41
+Oreo Cookies
+Lettuce
+Bleached Flour
+Coffee Cake
+NO
+NO
+S49
+Sriracha
+Canned Tuna
+Banana
+Raw Onion
+NO
+NO
+S17
+Burrito
+Burrito
+Burrito
+Burrito
+YES
+YES
+S36
+Mashed Potatoes
+Pancake
+Goat Cheese
+Chicken Nuggets
+YES
+YES
+S23
+Oysters
+Bagel
+Cheeseburger
+Marinara Sauce
+YES
+NO
+S42
+Tomato
+Sliced Bread
+Baked Potato
+Spaghetti Noodles
+YES
+NO
+S10
+Ribs
+Pepper
+Bagel
+Orange
+YES
+YES
+S18
+Cheese Omelette
+Cheese Omelette
+Cheese Omelette
+Cheese Omelette
+YES
+YES
+S37
+Shredded Chicken
+Lettuce
+Oreo Cookies
+Taco
+NO
+NO
+S24
+Mashed Potatoes
+Flour Tortilla
+Olives
+Shredded Cheese
+YES
+YES
+S1
+Mustard
+Lettuce
+Roast Beef
+Onion
+YES
+YES
+S11
+Reese's Peanut Butter Cups
+Pinto Beans
+Mustard
+Tahini
+NO
+NO
+S19
+Cheetos
+Cheetos
+Eggplant
+Lettuce
+NO
+NO
+S30
+Ravioli
+Ravioli
+Ravioli
+Ravioli
+YES
+YES
+S38
+Potato Chips
+Peanut Butter
+Grilled Sausage
+Baguette
+YES
+YES
+S2
+Aioli
+Lettuce
+Crackers
+Corn Meal
+YES
+NO
+S43
+Crackers
+Almond Milk
+Cheeseburger
+Tahini
+NO
+NO
+S25
+Sliced Bread
+Bagel
+Tomato
+Kale
+YES
+NO
+S44
+Bowtie Pasta
+Almond Butter
+Onions
+Refried Beans
+NO
+NO
+S3
+Salt
+Sliced Cheese
+Soy Sauce
+Pinto Beans
+NO
+NO
+S12
+Snap Peas
+Roasted Potatoes
+Sliced Beets
+Cookies
+NO
+NO
+S31
+Cheeseburger
+Cheeseburger
+Cheeseburger
+Cheeseburger
+YES
+YES
+S39
+Sliced Deli Meat
+Roasted Potatoes
+Egg Whites
+Duck Breast
+NO
+YES
+S50
+Muscles
+Coconut Oil
+Zucchini
+Raw Egg
+NO
+NO
+S4
+Sliced Beets
+Peaches
+Pie Crust
+Doritos
+NO
+NO
+S26
+Sliced Deli Meat
+Pancake
+Almonds
+Cupcake
+YES
+NO
+S45
+Sliced Deli Meat
+Ice Cream
+Ham and Cheese Omelette
+Melted Cheese
+NO
+NO
+S13
+Egg Whites
+Relish
+Cupcake
+Sliced Cheese
+NO
+NO
+S5
+Raw Egg
+Lettuce
+Ham
+Biscuits and Gravy
+NO
+NO
+S32
+Cherry Pie
+Lettuce
+Snap Peas
+Salt
+YES
+NO
+S51
+Sliced Cheese
+Sliced Bread
+Chili Powder
+Artichoke Heart
+YES
+YES
+S6
+Pepper
+Sliced Bread
+Strawberry Jam
+Cauliflower
+YES
+NO
+S27
+Mashed Potatoes
+Bell Pepper
+Eggplant
+Vegemite
+NO
+NO
+S46
+Salt
+Bell Pepper
+Banana
+S'Mores
+NO
+YES
+S14
+Ketchup
+Pancake
+Pinto Beans
+Corn Chips
+YES
+NO
+S7
+Sliced Deli Meat
+Dates
+Oreo Cookies
+Orange
+YES
+NO
+S33
+Mushroom
+Bagel
+Muscles
+Sliced Beets
+YES
+NO
+S20
+Chicken Wing
+Cabbage
+Canned Tuna
+Snap Peas
+NO
+NO
+S28
+Cake
+French Toast
+Pulled Pork
+Melted Cheese
+YES
+NO
+S8
+Kale
+Lettuce
+Cooked Onion
+Aioli
+YES
+YES
+S47
+Soy Sauce
+Black Beans
+Almond Milk
+Clams
+NO
+YES
+S15
+Tomato
+Chicken Wing
+Green Beans
+Crustless Quiche
+NO
+NO
+S34
+Cake
+Kale
+Butter
+Oreo Cookies
+NO
+YES
+S9
+Cream Cheese
+Poached Egg
+Artichoke Heart
+Burrito
+NO
+NO
+S21
+Pumpkin Pie
+Corn Tortilla
+Tuna Salad
+Onions
+YES
+NO
+S29
+Bagel
+Bagel
+Bagel
+Bagel
+YES
+YES
+S40
+Sliced Cheese
+Coconut Oil
+Rice Krispies Bar
+Corn on the Cob
+NO
+NO
+S48
+Olives
+Pepper
+Red Snapper
+Refried Beans
+NO
+YES
+S16
+Ground Beef
+Bell Pepper
+Lasagna
+Pancake
+YES
+NO
+S35
+Brussels Sprout
+Black Beans
+Olive Oil
+Paprika
+NO
+NO
+
+S31
+Cheeseburger
+Cheeseburger
+Cheeseburger
+Cheeseburger
+YES
+YES
+S16
+Ground Beef
+Bell Pepper
+Lasagna
+Pancake
+YES
+NO
+S24
+Mashed Potatoes
+Flour Tortilla
+Olives
+Shredded Cheese
+YES
+YES
+S99
+Cherry Pie
+Red Snapper
+Refried Beans
+Almond Butter
+NO
+NO
+S32
+Cherry Pie
+Lettuce
+Snap Peas
+Salt
+YES
+NO
+S40
+Sliced Cheese
+Coconut Oil
+Rice Krispies Bar
+Corn on the Cob
+NO
+NO
+S17
+Burrito
+Burrito
+Burrito
+Burrito
+YES
+YES
+S25
+Sliced Bread
+Bagel
+Tomato
+Kale
+YES
+NO
+S33
+Mushroom
+Bagel
+Muscles
+Sliced Beets
+YES
+NO
+S18
+Cheese Omelette
+Cheese Omelette
+Cheese Omelette
+Cheese Omelette
+YES
+YES
+S41
+Oreo Cookies
+Lettuce
+Bleached Flour
+Coffee Cake
+NO
+NO
+S26
+Sliced Deli Meat
+Pancake
+Almonds
+Cupcake
+YES
+NO
+S34
+Cake
+Kale
+Butter
+Oreo Cookies
+NO
+YES
+S19
+Cheetos
+Cheetos
+Eggplant
+Lettuce
+NO
+NO
+S42
+Tomato
+Sliced Bread
+Baked Potato
+Spaghetti Noodles
+YES
+NO
+S27
+Mashed Potatoes
+Bell Pepper
+Eggplant
+Vegemite
+NO
+NO
+S50
+Muscles
+Coconut Oil
+Zucchini
+Raw Egg
+NO
+NO
+S35
+Brussels Sprout
+Black Beans
+Olive Oil
+Paprika
+NO
+NO
+S100
+Clams
+Bell Pepper
+French Fries
+Cookies
+NO
+NO
+S43
+Crackers
+Almond Milk
+Cheeseburger
+Tahini
+NO
+NO
+S28
+Cake
+French Toast
+Pulled Pork
+Melted Cheese
+YES
+NO
+S51
+Sliced Cheese
+Sliced Bread
+Chili Powder
+Artichoke Heart
+YES
+YES
+S36
+Mashed Potatoes
+Pancake
+Goat Cheese
+Chicken Nuggets
+YES
+YES
+S44
+Bowtie Pasta
+Almond Butter
+Onions
+Refried Beans
+NO
+NO
+S29
+Bagel
+Bagel
+Bagel
+Bagel
+YES
+YES
+S52
+Bagel
+Bagel
+Bagel
+Bagel
+YES
+YES
+S37
+Shredded Chicken
+Lettuce
+Oreo Cookies
+Taco
+NO
+NO
+S60
+Pinto Beans
+Coconut Oil
+Corn on the Cob
+Roasted Potatoes
+NO
+YES
+S101
+Peanut Butter
+Chocolate Bar
+Kale
+Soy Sauce
+YES
+NO
+S45
+Sliced Deli Meat
+Ice Cream
+Ham and Cheese Omelette
+Melted Cheese
+NO
+NO
+S53
+Ham and Cheese Omelette
+Ham and Cheese Omelette
+Ham and Cheese Omelette
+Ham and Cheese Omelette
+YES
+YES
+S38
+Potato Chips
+Peanut Butter
+Grilled Sausage
+Baguette
+YES
+YES
+S61
+Bagel
+Mushroom
+Garlic Powder
+Taco
+YES
+YES
+S46
+Salt
+Bell Pepper
+Banana
+S'Mores
+NO
+YES
+S54
+Kale
+Chicken Wing
+Salmon
+Canned Tuna
+NO
+NO
+S102
+Mustard
+Flour Tortilla
+Clams
+Chocolate Chip Cookies
+YES
+NO
+S39
+Sliced Deli Meat
+Roasted Potatoes
+Egg Whites
+Duck Breast
+NO
+YES
+S62
+Kale
+Brussels Sprout
+Oysters
+Mashed Potatoes
+NO
+NO
+S47
+Soy Sauce
+Black Beans
+Almond Milk
+Clams
+NO
+YES
+S70
+Snap Peas
+Waffle
+Croissant
+Corn on the Cob
+NO
+YES
+S55
+Egg Whites
+Bagel
+Sliced Cheese
+Chili Powder
+YES
+YES
+S63
+Chicken Salad
+Sliced Cheese
+Eggplant
+Clams
+YES
+YES
+S48
+Olives
+Pepper
+Red Snapper
+Refried Beans
+NO
+YES
+S71
+Pinto Beans
+Corn Tortilla
+Raw Egg
+Carrots
+NO
+NO
+S56
+Bell Pepper
+Lettuce
+Anchovies
+Pinto Beans
+YES
+NO
+S103
+Anchovies
+Pie Crust
+Mushroom
+Sliced Cheese
+YES
+NO
+S64
+Kale
+Sliced Bread
+Balsamic Vinegar
+Pumpkin Pie
+YES
+NO
+S49
+Sriracha
+Canned Tuna
+Banana
+Raw Onion
+NO
+NO
+S72
+Kidney Beans
+Peaches
+Pumpkin
+Cashews
+NO
+NO
+S80
+French Toast
+English Muffin
+Zucchini
+Poached Egg
+YES
+YES
+S57
+Pie Crust
+Toast
+Sliced Deli Meat
+Pancake
+YES
+YES
+S65
+Sliced Cheese
+English Muffin
+Jalepeno Peppers
+Almonds
+YES
+YES
+S73
+Spinach
+Sliced Bread
+Oreo Cookies
+Chocolate Bar
+YES
+YES
+S81
+Banana
+English Muffin
+Honey Mustard
+Cream Cheese
+YES
+NO
+S58
+Doritos
+Bagel
+Crepe with Butter and Jam
+Almond Milk
+YES
+NO
+S104
+Raw Egg
+Salt
+Peanut Butter
+Summer Sausage
+NO
+NO
+S66
+Apple Pie
+Ground Beef
+Pie Crust
+Crepe with Butter and Jam
+NO
+NO
+S74
+Tahini
+Dates
+Baked Potato
+Almond Butter
+NO
+NO
+S82
+Black Beans
+Ravioli
+Cookies
+Goat Cheese
+NO
+YES
+S59
+Pie Crust
+Pie Crust
+Pie Crust
+Pie Crust
+YES
+YES
+S67
+Feta Cheese
+Chicken Breast
+Crackers
+Fried Potatoes
+NO
+YES
+S90
+Shredded Chicken
+Cream Cheese
+Pinto Beans
+Zucchini
+NO
+NO
+S75
+Cheeseburger
+Cheeseburger
+Cheeseburger
+Cheeseburger
+YES
+YES
+S105
+Chicken Wings
+Bacon Wrapped Dates
+Shredded Chicken
+French Toast
+YES
+YES
+S83
+Peanut Butter
+Flour Tortilla
+Mayonaise
+Corn Tortilla
+NO
+NO
+S68
+Pinto Beans
+Chocolate Bar
+Almonds
+Grilled Sausage
+NO
+NO
+S91
+Coconut Oil
+Feta Cheese
+Chicken Salad
+S'Mores
+NO
+NO
+S76
+Spinach
+Artichoke Heart
+Cayenne
+Corn Meal
+NO
+NO
+S84
+Refried Beans
+Red Snapper
+Oreo Cookies
+Muscles
+NO
+NO
+S69
+Shredded Lettuce
+Green Beans
+Cabbage
+Anchovies
+NO
+YES
+S92
+Sliced Deli Meat
+Tomato
+Olives
+Orange
+YES
+YES
+S77
+Banana
+Flour Tortilla
+Lettuce
+Soy Sauce
+YES
+NO
+S10
+Ribs
+Pepper
+Bagel
+Orange
+YES
+YES
+S85
+Snap Peas
+Corn Tortilla
+Ravioli
+Roast Beef
+NO
+YES
+S1
+Mustard
+Lettuce
+Roast Beef
+Onion
+YES
+YES
+S93
+Foie Gras
+Biscuits and Gravy
+Chocolate Chip Cookies
+Strawberry Jam
+YES
+NO
+S78
+Mushroom
+Honey
+Summer Sausage
+Marshmellows
+NO
+YES
+S2
+Aioli
+Lettuce
+Crackers
+Corn Meal
+YES
+NO
+S11
+Reese's Peanut Butter Cups
+Pinto Beans
+Mustard
+Tahini
+NO
+NO
+S86
+Tahini
+Corn Tortilla
+Potato Chips
+Cake
+NO
+NO
+S3
+Salt
+Sliced Cheese
+Soy Sauce
+Pinto Beans
+NO
+NO
+S94
+Maple Syrup
+Waffle
+Chicken Salad
+Refried Beans
+YES
+NO
+S79
+Eggplant
+Baguette
+Shredded Pork
+Ravioli
+YES
+YES
+S4
+Sliced Beets
+Peaches
+Pie Crust
+Doritos
+NO
+NO
+S12
+Snap Peas
+Roasted Potatoes
+Sliced Beets
+Cookies
+NO
+NO
+S87
+Hot Pocket
+Caviar
+Kidney Beans
+Almond Milk
+NO
+NO
+S20
+Chicken Wing
+Cabbage
+Canned Tuna
+Snap Peas
+NO
+NO
+S5
+Raw Egg
+Lettuce
+Ham
+Biscuits and Gravy
+NO
+NO
+S95
+Coffee Cake
+S'Mores
+Bagel
+Sriracha
+NO
+NO
+S6
+Pepper
+Sliced Bread
+Strawberry Jam
+Cauliflower
+YES
+NO
+S13
+Egg Whites
+Relish
+Cupcake
+Sliced Cheese
+NO
+NO
+S88
+Ribs
+Canned Chicken
+Crackers
+Mushroom
+NO
+YES
+S21
+Pumpkin Pie
+Corn Tortilla
+Tuna Salad
+Onions
+YES
+NO
+S96
+Pumpkin
+Bagel
+Hard Boiled Egg
+Banana
+YES
+NO
+S7
+Sliced Deli Meat
+Dates
+Oreo Cookies
+Orange
+YES
+NO
+S14
+Ketchup
+Pancake
+Pinto Beans
+Corn Chips
+YES
+NO
+S8
+Kale
+Lettuce
+Cooked Onion
+Aioli
+YES
+YES
+S89
+Pinto Beans
+Peaches
+Smoked Salmon
+Oatmeal
+NO
+NO
+S22
+Strawberry Jam
+Strawberry Jam
+Cream Cheese
+Chocolate Chip Cookies
+YES
+YES
+S97
+Red Snapper
+Refried Beans
+Chocolate Chip Cookies
+Brussels Sprout
+NO
+NO
+S9
+Cream Cheese
+Poached Egg
+Artichoke Heart
+Burrito
+NO
+NO
+S30
+Ravioli
+Ravioli
+Ravioli
+Ravioli
+YES
+YES
+S15
+Tomato
+Chicken Wing
+Green Beans
+Crustless Quiche
+NO
+NO
+S23
+Oysters
+Bagel
+Cheeseburger
+Marinara Sauce
+YES
+NO
+S98
+Oreo Cookies
+Ravioli
+Ribs
+Caviar
+NO
+NO
+
+S2
+Cheeseburger
+Cheeseburger
+Cheeseburger
+Cheeseburger
+YES
+YES
+S12
+Cherry Pie
+Bagel
+Cheeseburger
+Lasagna
+YES
+NO
+S7
+Foie Gras
+Cake
+Artichoke Heart
+Onions
+NO
+NO
+S3
+Cream Cheese
+Shrimp
+Graham Crackers
+Lasagna
+NO
+NO
+S10
+Steak
+Biscuits
+Smoked Salmon
+Biscuits and Gravy
+YES
+NO
+S8
+Banana
+Taco
+S'Mores
+Ice Cream
+YES
+NO
+S4
+Onions
+Corn Tortilla
+Pulled Pork
+Peanut Butter
+NO
+NO
+S9
+Black Beans
+Bell Pepper
+Garlic
+Feta Cheese
+YES
+YES
+S11
+Roasted Potatoes
+Goat Cheese
+Cherry Pie
+Sliced Cheese
+NO
+NO
+S5
+Peaches
+Biscuits
+Graham Crackers
+Canned Tuna
+NO
+NO
+S1
+Mustard
+Lettuce
+Roast Beef
+Onion
+YES
+YES
+S6
+Avocado
+Canned Tuna
+Bagel
+Baguette
+YES
+NO
